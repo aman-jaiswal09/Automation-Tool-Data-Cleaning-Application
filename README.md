@@ -20,6 +20,7 @@ This Python application takes datasets as input, cleans the data, and provides a
 Ensure you have Python installed along with the required libraries. You can install dependencies using:
 ```bash
 pip install pandas
+pip install data_cleaning_master
 ```
 
 ## Usage
@@ -34,7 +35,7 @@ pip install pandas
 
 ## Example
 ```python
-python data_cleaner.py
+data_cleaning_master.py
 ```
 The script will then prompt for the dataset location and process it accordingly.
 
